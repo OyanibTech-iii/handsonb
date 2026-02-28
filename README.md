@@ -1,3 +1,4 @@
+```bash
 # --------------------
 # Setup Project
 # --------------------
@@ -7,8 +8,8 @@ symfony console make:controller DashboardController
 # --------------------
 
 # Clone 
-navigate to code <>
-
+navigate to code <https://github.com/OyanibTech-iii/handsonb.git>
+git clone "https://github.com/OyanibTech-iii/handsonb.git"
 # --------------------
 # Security
 # --------------------
@@ -80,3 +81,4 @@ symfony console lexik:jwt:generate-keypair
 composer require knpuniversity/oauth2-client-bundle
 composer require league/oauth2-google
 # --------------------
+```
